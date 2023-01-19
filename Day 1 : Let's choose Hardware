@@ -1,4 +1,4 @@
-No Hardware hacking without the hardware.
+Raspberry Pi is a series of small single-board computers developed in the United Kingdom by the Raspberry Pi Foundation in association with Broadcom.
 Let’s get to know the hardware and the variations of which we will be using. We can go straight buying a pi on the 1st day but it can be a bit of overwhelming as there are quite a bit of variations. In between different versions of Raspberry pi there are also different versions of RAM quantities and the hardware kits and accessories.
 
 Let’s make our choice easier.
@@ -8,8 +8,6 @@ The A Series:
 sounds cool eh.. feels like premium cars. But ironically the A series offers the lowest cost models. If you need to seriously reduce your power usage or have a very tight budget, you can utilise it without a doubt.
 
 Just be aware that you will only receive the essential minimum.For instance, the Raspberry Pi A versions lack an Ethernet interface, have only one USB port, and have extremely little RAM in comparison to other, more capable variants.
-
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Raspberry_Pi_1A.svg/1024px-Raspberry_Pi_1A.svg.png)
 
 The B Series:
 
