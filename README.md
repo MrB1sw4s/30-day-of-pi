@@ -1,4 +1,4 @@
-# 30-day-of-pi
+# 30-days-of-pi
 A 30 day challenge to learn Raspberry Pi from zero to hero...
 
 Learn Raspberry Pi with me..
