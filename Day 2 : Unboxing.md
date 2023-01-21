@@ -4,8 +4,7 @@ as we have our pi in our hand let's take a look inside what the components are.
 
 <img src="/misc/pi.png">
 
-we have taken a raspberry pi 4 for an example and here are the main components
-
+we have taken a raspberry pi 4 for an example and <h3>here are the main components-</h3>
 A: GPIO Pins
 
 B: Wireless Card
@@ -33,7 +32,7 @@ L: Camera connector
 M: Jack 3.5 mm output
 
 
-the GPIO pins are here to allow the pi to create a link between the pi and external components.we will lwarn about it in the next days. we can plug extension boards here or wire it up to create our own electronic circuit. we will see about it later.
+the GPIO pins are here to allow the pi to create a link between the pi and external components.we will learn about it in the next days. we can plug extension boards here or wire it up to create our own electronic circuit. we will see about it later.
 the display connector is for an external screen.
 
 camera connector is also similar.
